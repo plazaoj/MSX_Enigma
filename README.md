@@ -24,3 +24,7 @@ Pulsando cualquier tecla `A - Z`, aparecerá en pantalla la letra codificada.
 
 ## Enlace
 Código comentado y funcionamiento de Enigma: http://cacharreomsx.blogspot.com/2019/04/la-maquina-enigma.html
+
+## Disclaimer
+
+Este código ni se mantiene ni se actualiza. Simplemente se comparte para quien pueda interesar. Úsalo por tu cuenta y riesgo.
